@@ -53,7 +53,6 @@ The included video demonstrates the mechanical operation and component interacti
 2. Open *SolidWorks*.
 3. Set your working directory to the folder containing the downloaded files.
 4. Open NUT&BOLT MOVING.SLDASM to view the complete assembly and interact with the moving components.
-5. Open the MP4 file to see the animated operation of the assembly.
 
 ## 👤 Author
 *Yazan Alzyuod*
